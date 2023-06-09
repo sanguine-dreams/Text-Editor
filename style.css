@@ -77,11 +77,11 @@ textarea {
     position: absolute;
     height: 5%;
     width: 80%;
-    right: 5%;
-    top: 2%;
+    right: -32%;
+    top: 3%;
 }
 
-.col {
+.col-2 {
     
     margin: 5px;
     border-top: #00FF00 solid;
