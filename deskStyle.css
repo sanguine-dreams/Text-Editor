@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-color: peru
+}
+
+.container{
+    width: 100%;
+
+}
+
+.desk{
+    background-color: brown;
+    border: 20px;
+    border-color: burlywood;
+    border-style: ridge;
+    
+    margin: 5%;
+
+
+}
+
+.parchment{
+
+    margin: 1%;
+    
+}
+
+textarea {
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+    font-family: cursive;
+  
+}
